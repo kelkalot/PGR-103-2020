@@ -21,7 +21,7 @@
 // We must import the Scanner before we can use it below
 import java.util.Scanner;
 
-public class DailyChallenge02
+public class OPE02
 {
 	public static int teaParty(int tea, int candy)
 	{

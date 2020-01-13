@@ -21,7 +21,7 @@
 // We must import the Scanner before we can use it below
 import java.util.Scanner;
 
-public class DailyChallenge01
+public class OPE01
 {
 	public static void main(String[] args)
 	{
